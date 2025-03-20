@@ -1,0 +1,6 @@
+@ChoreographySagaExample_HostAddress = http://localhost:5130
+
+GET {{ChoreographySagaExample_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
